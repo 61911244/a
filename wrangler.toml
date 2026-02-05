@@ -6,7 +6,7 @@ compatibility_date = "2025-03-10"
 binding = "DB"
 database_name = "qrcode_hub"
 # 注意：将下面的 id 替换为你自己拷贝的 D1 存储的 id 才能正常使用！
-database_id = "959e90dd-cc75-49bf-ac01-5f4e8c3fb906"
+database_id = "937c81be-7190-4f8b-b993-f73bb9e48b3f"
 
 [triggers]
 crons = ["0 2 */1 * *"]
